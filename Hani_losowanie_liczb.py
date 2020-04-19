@@ -3,8 +3,8 @@ import random
 print("Hani losowanie🌹🌺")
 kotekipiesek=0
 while True:
-	liczba1=random.randint(0,10000)
-	liczba2=random.randint(0,10000)
+	liczba1=random.randint(0,1000)
+	liczba2=random.randint(0,1000)
 
 
 	print("masz (%d)  punktow. ile to jest (%d + %d) " % (kotekipiesek,liczba1,liczba2))
